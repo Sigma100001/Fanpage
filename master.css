@@ -1,0 +1,88 @@
+.blurb1 {
+box-shadow: 5px 5px black;
+padding-top: 10px;
+border: 5px solid black;
+text-align: center;
+background-color: #ab76a1;
+border-radius: 20px;
+margin: auto;
+font-family: monospace;
+color: black;
+width: auto;
+
+}
+.space {
+padding-bottom: 30px;
+}
+
+
+
+
+
+.row {
+  display: flex;
+  width: auto;
+}
+.column{
+  flex: 50%;
+}
+.blurb2 {
+box-shadow: 5px 5px black;
+padding-top: 10px;
+border: 5px solid black;
+text-align: center;
+background-color: #ab76a1;
+border-radius: 20px;
+padding: 20px;
+margin: 30px;
+font-family: monospace;
+color: black;
+width: auto;
+font-size: 25px;
+
+}
+
+.Chorus_Forest {
+  box-shadow: 5px 5px black;
+  padding-top: 10px;
+  border: 5px solid black;
+  text-align: center;
+  background-color: #62458a;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  font-family: monospace;
+  color: black;
+  width: 750px;
+  font-size: 25px;
+}
+
+.Amber_land {
+  box-shadow: 5px 5px black;
+  padding-top: 10px;
+  border: 5px solid black;
+  text-align: center;
+  background-color: #db9927;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  font-family: monospace;
+  color: black;
+  width: 750px;
+  font-size: 25px;
+}
+
+.Mushroom_Forest {
+  box-shadow: 5px 5px black;
+  padding-top: 10px;
+  border: 5px solid black;
+  text-align: center;
+  background-color: #34dbeb;
+  border-radius: 20px;
+  padding: 20px;
+  margin: auto;
+  font-family: monospace;
+  color: black;
+  width: 750px;
+  font-size: 25px;
+}
